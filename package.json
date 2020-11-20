@@ -1,0 +1,22 @@
+{
+  "name": "sign-digital",
+  "version": "1.0.0",
+  "description": "Tim hieu ve chu ki so",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon -L src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoLoMario/sign-digital.git"
+  },
+  "keywords": [
+    "sign-digital"
+  ],
+  "author": "dangkhoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZoLoMario/sign-digital/issues"
+  },
+  "homepage": "https://github.com/ZoLoMario/sign-digital#readme"
+}
